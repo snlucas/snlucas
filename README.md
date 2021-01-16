@@ -1,9 +1,8 @@
 ### Hi there 👋, i'm Lucas Nogueira 🙂
 
-<!-- - 🔭 I’m currently working on --> 
+- 🔭 I’m currently not working on anything 
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Flutter projects.
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Flutter and Dart.
 - 📫 How to reach me: Twitter - @synclucas
 - 😄 Pronouns: He/His

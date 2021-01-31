@@ -10,6 +10,7 @@
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
+  - [RackerRank](https://www.hackerrank.com/lucas_lambda_101)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to play invisible drums 😅.
 

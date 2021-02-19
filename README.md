@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Lucas Nogueira 🙂
 
-- 🔭 I’m currently working in this project:
+- 🔭 I’m currently working on:
+  - [Flutter Learning Labs](https://github.com/snlucas/Flutter-Learning-Labs)
   - [Who I am - A Business Card App](https://github.com/snlucas/who_i_am)
   - [Movie Wallet - Save and rate your watched movies](https://github.com/snlucas/movie_wallet)
   - [Data Structures in Dart](https://github.com/snlucas/Data-Structures-in-Dart)

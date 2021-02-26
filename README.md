@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Lucas Nogueira 🙂
+### Hi there 👋, i'm Lucas 🙂
 
 - 🔭 I’m currently working on:
   - [Flutter Pomodoro Timer](https://github.com/snlucas/flutter_pomodoro_timer)

@@ -1,16 +1,13 @@
 ### Hi there 👋, i'm Lucas 🙂
 
 - 🔭 I’m currently working on:
-  - [Flutter Pomodoro Timer](https://github.com/snlucas/flutter_pomodoro_timer)
-  - [Data Structures in Dart](https://github.com/snlucas/Data-Structures-in-Dart)
-- 🌱 I’m currently learning Flutter and Front End development.
-- 👯 I’m looking to collaborate on Flutter projects.
-- 💬 Ask me about Flutter, Dart, and programming.
+  - [Weather Table](https://github.com/snlucas/weather-table)
+- 🌱 I’m currently learning Python and Web development.
+- 👯 I’m looking to collaborate on Python projects.
+- 💬 Ask me about Python, Dart, Javascript, and programming.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
-  - [RackerRank](https://www.hackerrank.com/lucas_lambda_101)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to play invisible drums 😅.
 
 

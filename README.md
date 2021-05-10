@@ -1,10 +1,11 @@
 ### Hi there 👋, i'm Lucas 🙂
 
 - 🔭 I’m currently working on:
-  - [Weather Table](https://github.com/snlucas/weather-table)
+  - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py)
+  - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape)
 - 🌱 I’m currently learning Python and Web development.
 - 👯 I’m looking to collaborate on Python projects.
-- 💬 Ask me about Python, Dart, Javascript, and programming.
+- 💬 Ask me about Python, Javascript, and programming.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)

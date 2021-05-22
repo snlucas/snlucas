@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Lucas 🙂
 
 - 🔭 I’m currently working on:
+  - [Meal Time](https://github.com/snlucas/meal-time)
   - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py)
   - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape)
 - 🌱 I’m currently learning Python and Web development.
@@ -9,7 +10,6 @@
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
-- ⚡ Fun fact: I like to play invisible drums 😅.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=snlucas&&show_icons=true&title_color=d11b54&icon_color=a8066a&text_color=37d368&bg_color=191919">

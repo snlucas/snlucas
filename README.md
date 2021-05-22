@@ -1,12 +1,16 @@
-### Hi there 👋, i'm Lucas 🙂
+[🇺🇸](#)
+[🇧🇷](https://github.com/snlucas/snlucas/blob/main/README_BR.md)
+
+
+### Hi there 👋, I'm Lucas 🙂
 
 - 🔭 I’m currently working on:
-  - [Meal Time](https://github.com/snlucas/meal-time)
-  - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py)
-  - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape)
-- 🌱 I’m currently learning Python and Web development.
-- 👯 I’m looking to collaborate on Python projects.
-- 💬 Ask me about Python, Javascript, and programming.
+  - [Meal Time](https://github.com/snlucas/meal-time) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *Web APP using TheMealDB API, Flask, Python Requests, Bootstrap, Docker, and Heroku.*
+  - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App made with OpenWeather API, Flask, Docker, and Python Requests.*
+  - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App with Beautiful Soup, MariaDB, and .CSV sheets.*
+- 🌱 I’m currently learning **Python** and Web development.
+- 👯 I’m looking to collaborate on **Python** projects.
+- 💬 Ask me about **Python**, Javascript, and programming.
 - 📫 How to reach me:
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)

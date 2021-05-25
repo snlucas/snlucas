@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on:
   - [Meal Time](https://github.com/snlucas/meal-time) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *Web APP using TheMealDB API, Flask, Python Requests, Bootstrap, Docker, and AWS Beanstalk.*
+  - [RockGauchoDB](https://github.com/snlucas/rock-gaucho-db) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *API with data about Southern Brazil rock bands.*
   - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App made with OpenWeather API, Flask, Docker, and Python Requests.*
   - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App with Beautiful Soup, MariaDB, and .CSV sheets.*
 - 🌱 I’m currently learning **Python** and Web development.

@@ -19,4 +19,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=snlucas&&show_icons=true&title_color=d11b54&icon_color=a8066a&text_color=37d368&bg_color=191919" alt="My github stats chart">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlucas&theme=tokyonight" alt="My most used languages chart">
+<img srt="https://raw.githubusercontent.com/snlucas/github-stats-transparent/output/generated/languages.svg" alt="My most used languages chart">

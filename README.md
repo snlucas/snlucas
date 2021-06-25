@@ -3,11 +3,11 @@
 
 
 ### Hi there 👋, I'm Lucas 🙂
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=snlucas.visitor-badge)
 
 - 🔭 I’m currently working on:
+  - [Desafio Observatorio](https://github.com/snlucas/desafio-observatorio)
   - [Meal Time](https://github.com/snlucas/meal-time) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *Web APP using TheMealDB API, Flask, Python Requests, Bootstrap, Docker, and AWS Beanstalk.*
-  - [RockGauchoDB](https://github.com/snlucas/rock-gaucho-db) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *API with data about Southern Brazil rock bands (project at the very beginning).*
-  - [IMC API](https://github.com/snlucas/IMC-API) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *IMC API made with Python (project at the very beginning).*
   - [Forecasts_Py](https://github.com/snlucas/Forecasts_Py) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App made with OpenWeather API, Flask, Docker, and Python Requests.*
   - [AMZ-Scrape](https://github.com/snlucas/AMZ-Scrape) &nbsp;&nbsp; 👉 &nbsp;&nbsp; *App with Beautiful Soup, MariaDB, and .CSV sheets.*
 - 🌱 I’m currently learning **Python** and Web development.
@@ -19,3 +19,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=snlucas&&show_icons=true&title_color=d11b54&icon_color=a8066a&text_color=37d368&bg_color=191919">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snlucas&theme=tokyonight)

@@ -5,10 +5,13 @@
 ### Hi there 👋, I'm Lucas 🙂
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=snlucas.visitor-badge)
 
-- 🌱 I’m currently learning **Python** and Web development.
+- 🚀 I’m currently working on:
+  - [Vigia](https://github.com/snlucas/vigia) - An Alexa Remember Me Project.
+  - [Stuff Tracker](https://github.com/snlucas/stuff-tracker) - A generic tracker project.
 - 👯 I’m looking to collaborate on **Python** projects.
 - 💬 Ask me about **Python**, Javascript, and programming.
 - 📫 How to reach me:
+  - [e-mail](mailto:lucas.lambda.101@gmail.com)
   - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
 

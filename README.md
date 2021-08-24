@@ -8,6 +8,8 @@
 - 🚀 I’m currently working on:
   - [Vigia](https://github.com/snlucas/vigia) - An Alexa Remember Me Project.
   - [Stuff Tracker](https://github.com/snlucas/stuff-tracker) - A generic tracker project.
+- 🎓 I'm currently learning:
+  - You can see what am I learning on my [Project Study Notes](https://github.com/users/snlucas/projects/5).
 - 👯 I’m looking to collaborate on **Python** projects.
 - 💬 Ask me about **Python**, Javascript, and programming.
 - 📫 How to reach me:

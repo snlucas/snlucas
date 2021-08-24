@@ -6,6 +6,8 @@
 - 🚀 Atualmente estou trabalhando nos projetos:
   - [Vigia](https://github.com/snlucas/vigia) - Projeto Alexa para lembrar coisas específicas.
   - [Stuff Tracker](https://github.com/snlucas/stuff-tracker) - Tracker genérico.
+- 🎓 Estou estudando:
+  - Você pode ver o que estou estudando olhando meu [Projeto Study Notes](https://github.com/users/snlucas/projects/5).
 - 👯 Busco colaborar em projetos utilizando **Python**.
 - 📫 Como me encontrar:
   - [e-mail](mailto:lucas.lambda.101@gmail.com)

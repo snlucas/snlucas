@@ -4,8 +4,8 @@
 ### Olá 👋, Eu sou o Lucas 🙂
 
 - 🚀 Atualmente estou trabalhando nos projetos:
-  - [Vigia](https://github.com/snlucas/vigia) - Projeto Alexa para lembrar coisas específicas.
-  - [Stuff Tracker](https://github.com/snlucas/stuff-tracker) - Tracker genérico.
+  - [PyJunior](https://github.com/snlucas/PyJunior)
+  - [Data Structures AVL Tree](https://github.com/snlucas/Trab_DS_Arvores)
 - 🎓 Estou estudando:
   - Você pode ver o que estou estudando olhando meu [Projeto Study Notes](https://github.com/users/snlucas/projects/5).
 - 👯 Busco colaborar em projetos utilizando **Python**.
@@ -15,4 +15,4 @@
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=snlucas&&show_icons=true&title_color=d11b54&icon_color=a8066a&text_color=37d368&bg_color=191919" alt="My github stats chart">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snlucas&theme=tokyonight" alt="My most used languages chart">
+<img src="https://github-readme-stats.vercel.app/api?username=snlucas&&show_icons=true&title_color=d11b54&icon_color=a8066a&text_color=37d368&bg_color=191919" alt="My github stats chart">

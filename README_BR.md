@@ -4,10 +4,10 @@
 ### Olá 👋, Eu sou o Lucas 🙂
 
 - 🚀 Atualmente estou trabalhando nos projetos:
-  - [PyJunior](https://github.com/snlucas/PyJunior)
   - [Data Structures AVL Tree](https://github.com/snlucas/Trab_DS_Arvores)
 - 🎓 Estou estudando:
-  - Você pode ver o que estou estudando olhando meu [Projeto Study Notes](https://github.com/users/snlucas/projects/5).
+  - Django
+  - Vue
 - 👯 Busco colaborar em projetos utilizando **Python**.
 - 📫 Como me encontrar:
   - [e-mail](mailto:lucas.lambda.101@gmail.com)

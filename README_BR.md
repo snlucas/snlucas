@@ -3,12 +3,7 @@
 
 ### Olá 👋, Eu sou o Lucas 🙂
 
-- 🚀 Atualmente estou trabalhando nos projetos:
-  - [Data Structures AVL Tree](https://github.com/snlucas/Trab_DS_Arvores)
-- 🎓 Estou estudando:
-  - Django
-  - Vue
-- 👯 Busco colaborar em projetos utilizando **Python**.
+- 🚀 Atualmente estou desenvolvendo projetos em Python/Django.
 - 📫 Como me encontrar:
   - [e-mail](mailto:lucas.lambda.101@gmail.com)
   - [Twitter](https://twitter.com/synclucas)

@@ -5,13 +5,7 @@
 ### Hi there 👋, I'm Lucas 🙂
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=snlucas.visitor-badge)
 
-- 🚀 I’m currently working on:
-  - [Data Structures AVL Tree](https://github.com/snlucas/Trab_DS_Arvores)
-- 🎓 I'm currently learning:
-  - Django
-  - Vue
-- 👯 I’m looking to collaborate on **Python** projects.
-- 💬 Ask me about **Python**, Javascript, and programming.
+- 🚀 I’m currently coding in Python/Django.
 - 📫 How to reach me:
   - [e-mail](mailto:lucas.lambda.101@gmail.com)
   - [Twitter](https://twitter.com/synclucas)

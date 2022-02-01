@@ -5,14 +5,15 @@
 ### Hi there 👋, I'm Lucas 🙂
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=snlucas.visitor-badge)
 
-I'm Lucas. But you can call me Dude.
-I'm Brazilian, and I love to code, music (Rock), movies, cultures, science, learn new things, and so on.
+I'm Lucas. But you can call me Dude.<br>
+I'm Brazilian, and I love to code, music (Rock), movies, cultures, science, learn new things, and so on.<br>
 The language of my heart is Python. But I like to learn new languages too.
 
-Currently I'm coding the most in Python/Django.
-You can see my Django Projects [here](https://github.com/snlucas?tab=repositories&q=django).
-I'm doing some projects with FastAPI. You can see it [here](https://github.com/snlucas?tab=repositories&q=fastap).
+Currently I'm coding the most in Python/Django.<br>
+You can see my Django Projects [here](https://github.com/snlucas?tab=repositories&q=django).<br>
+I'm doing some projects with FastAPI. You can see it [here](https://github.com/snlucas?tab=repositories&q=fastap).<br>
 And finally, my projects using something with Python and projects I'm interested in you can see [here](https://github.com/snlucas?tab=repositories&q=python).
+
 Off course you can see some of my projects I pinned below.
 
 I also have a blog → [dev.to/snlucas](https://dev.to/snlucas). It's still in the very beginning.

@@ -10,9 +10,7 @@ Brazilian code lover. Favorite things are music, games (love Silent Hill), Linux
 Currently working with Salesforce at [SR Consulting](https://srconsulting.io/)<br>
 
 - 📫 How to reach me:
-  - [Blog](https://lucasnogueira.hashnode.dev/)
   - [e-mail](mailto:lucas.lambda.101@gmail.com)
-  - [Twitter](https://twitter.com/synclucas)
   - [Linkedin](https://www.linkedin.com/in/sn-lucas/)
 
 

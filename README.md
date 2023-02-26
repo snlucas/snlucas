@@ -1,5 +1,5 @@
 <a href="#">🇺🇸</a>
-<a href="https://github.com/snlucas/snlucas/blob/main/README_BR.md"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-brazil_1f1e7-1f1f7.png" alt="BR" width="30px"></a>
+<a href="https://github.com/snlucas/snlucas/blob/main/README_BR.md">🇧🇷</a>
 
 
 ### It's me, Lucas

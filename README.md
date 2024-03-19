@@ -5,7 +5,9 @@
 ### It's me, Lucas
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=snlucas.visitor-badge)
 
-Brazilian code lover. Favorite things are music, games (love Silent Hill), Linux, animals, and food. 
+I'm a Salesforce and Full Stack developer.
+I like to use and to customize my Linux system, and I like to work with Javascript/Typescript and open source.
+Furthermore I am interested in game development, devops, and in to improve myself as developer learning algorithms, data structures refactoring, etc.
 
 Currently working with Salesforce at [SR Consulting](https://srconsulting.io/)<br>
 

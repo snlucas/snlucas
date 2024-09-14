@@ -39,6 +39,5 @@ Currently, I'm working with **Salesforce** at [SR Consulting](https://srconsulti
 ---
 
 ### 🔥 Random Cool Stuff:
-- [Check out my Spotify playlist](https://open.spotify.com/user/snlucas)
 - **Random Dev Joke**:  
   ![Joke](https://readme-jokes.vercel.app/api?theme=dark)
